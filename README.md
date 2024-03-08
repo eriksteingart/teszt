@@ -1,1 +1,2 @@
 # teszt
+README.md szerkesztése
